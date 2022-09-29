@@ -1,0 +1,63 @@
+
+.corpo{background-image: url("immagini/sfondo.jpg");
+background-size: contain;
+}
+
+.conteiner{
+    text-align: center;
+    background-color: dimgray;
+    opacity: 0.7;
+    padding-bottom: 5%;
+    border-radius: 2%;
+    padding-top: 5%;
+    margin-top: 6%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 6%;
+}
+
+.titolo{
+  font-family: arial;
+  color: lime;
+  font-size: 30px;
+
+}
+
+.capitolo{
+  background-color: lime;
+  padding: 10px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.sottocapitolo{
+  color: white;
+  font-size: 14px;
+  font-family: arial;
+  text-align: left;
+  margin-left: 80px;
+}
+
+.primalinea{
+  background-color: orange;
+  height: 30px;
+  border: 0;
+  border-radius: 10px;
+  margin-right: 65%;
+}
+
+.secondalinea{
+  background-color: lime;
+  height: 30px;
+  border: 0;
+  border-radius: 10px;
+  margin-right: 45%;
+}
+
+.terzalinea{
+  background-color: red;
+  height: 30px;
+  border: 0;
+  border-radius: 10px;
+  margin-right: 85%;
+}
